@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Này cậu!',
     introDesc: `Tớ có điều muốn hỏi cậu nè`,
-    btnIntro: 'Dạ',
+    btnIntro: 'Ok',
     title: 'Cậu có yêu tớ không nào 🥰',
     desc: 'Không trả lời mà thoát ra là tớ cắn đó nha 😜 ',
     btnYes: 'Yêu nhiều lắm cơ 🥰',
