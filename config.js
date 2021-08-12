@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Này heo con!',
+    introTitle: 'Này cậu!',
     introDesc: `Tớ có điều muốn hỏi cậu nè`,
     btnIntro: 'Dạ',
     title: 'Cậu có yêu tớ không nào 🥰',
@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ nạ 😍',
     reply: 'Vì cậu dễ thương 😳',
     mess: 'Tớ biết mà 🥰',
-    messDesc: 'Tối nay nhớ ngủ sớm nhé công chúa của anh 🥰',
+    messDesc: 'Tối nay nhớ ngủ sớm nhé công chúa của anh 😜',
     btnAccept: 'Dạ ❤️',
     messLink: 'https://m.me/quocsu.kimluan' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
